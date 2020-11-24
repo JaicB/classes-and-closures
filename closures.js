@@ -223,5 +223,9 @@ function timeOutCounter() {
   }
 }
 timeOutCounter();
+timeOutCounter();
+timeOutCounter();
+timeOutCounter();
+timeOutCounter();
+timeOutCounter();
 
-console.log(timeOutCounter)

@@ -134,7 +134,7 @@ class ProgressiveManager extends Manager {
   Widget Co has a factory that makes widgets.
   Factories have Machines.
 
-  Make a Machine class that takes in no parameters
+  Make a Machin e class that takes in no parameters
   A Machine has the following properties:
     - widgets_made_count - default 0
     - wear_and_tear_count - default 0
